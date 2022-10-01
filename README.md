@@ -1,6 +1,6 @@
 # analysis-of-universal-2-child-policy-by-nonlinear-regression
 
-## Reading the paper in the pdf file before running the code is highly recommended
+## Reading the paper in the pdf file before running the code is recommended
 
 ## How to run the code
 
